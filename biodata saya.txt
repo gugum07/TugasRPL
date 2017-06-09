@@ -1,1 +1,4 @@
 Nama : Gugum Gumilar
+NPM  : 1406060
+Jenis : kelamin Laki-laki
+Alamat : Garut
